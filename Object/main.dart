@@ -21,4 +21,5 @@ class Phone {
 void main() {
   Phone phone1 = Phone("Apple", "12.12.2024", "black", 1200);
   phone1.Print();
+  
 }
