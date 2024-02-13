@@ -21,6 +21,8 @@ class Phone {
 void main() {
   // new objecr creat
   Phone phone1 = Phone("Apple", "12.12.2024", "black", 1200);
+
+  // call class method
   phone1.Print();
 
 }
