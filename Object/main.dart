@@ -19,13 +19,14 @@ class Phone {
   void Print() {
     print("$model, $date_of_manufacture, $color, $price");
   }
-  
+
 }
 
 
 
 
 void main() {
+  
   // new objecr creat
   Phone phone1 = Phone("Apple", "12.12.2024", "black", 1200);
 
