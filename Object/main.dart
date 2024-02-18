@@ -12,6 +12,7 @@ class Phone {
     this.price = price;
   }
 
+
   //  Method
   void Print() {
     print("$model, $date_of_manufacture, $color, $price");
