@@ -3,6 +3,7 @@ class Phone {
   String date_of_manufacture = "";
   String color = "";
   int price = 0;
+  
 
   //  Constructor
   Phone(String model, String date_of_manufacture, String color, int price) {
