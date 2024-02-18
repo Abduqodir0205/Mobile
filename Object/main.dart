@@ -1,5 +1,5 @@
 class Phone {
-  
+
   String model = "";
   String date_of_manufacture = "";
   String color = "";
@@ -19,6 +19,7 @@ class Phone {
   void Print() {
     print("$model, $date_of_manufacture, $color, $price");
   }
+  
 }
 
 
